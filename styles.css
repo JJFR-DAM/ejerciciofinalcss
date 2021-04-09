@@ -1,0 +1,113 @@
+.verde {
+  height: 100%;
+  width: 100%;
+  border: 2px solid green;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.header {
+  height: 50px;
+  width: 95%;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.imagen {
+  border: 2px solid black;
+  height: 90%;
+  width: 33%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.nombre :hover {
+}
+.primero {
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 350px;
+  width: 95%;
+}
+.uno {
+  border: solid 2px red;
+  width: 25%;
+  height: 95%;
+}
+.dos {
+  border: solid 2px red;
+  width: 70%;
+  height: 95%;
+}
+.segundo {
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 150px;
+  width: 95%;
+}
+.padreInstituto {
+  border: 2px solid yellow;
+  height: 93%;
+  width: 31%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.Instituto {
+  border: solid green 2px;
+  width: 50%;
+  height: 33%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.padreCurso {
+  border: 2px solid yellow;
+  height: 93%;
+  width: 31%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.Curso {
+  border: solid green 2px;
+  width: 50%;
+  height: 33%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.padreFecha {
+  border: 2px solid yellow;
+  height: 93%;
+  width: 31%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.Fecha {
+  border: solid green 2px;
+  width: 50%;
+  height: 33%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+@media only screen and (max-width: 500px) {
+}
